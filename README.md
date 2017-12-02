@@ -26,7 +26,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 
 | No  |  Project Title  |  Completed On | CodePen |
 | :------------: | ------------ | :------------: | ------------ |
-| 1  | ------------ |------------ | ------------ |
+| 1  | [Event Invitation](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day2) |------------ | [CodePen](https://codepen.io/AlxCrmr/full/pdGvoa/)|
 | 2  | ------------ |------------ | ------------ |
 | 3  | ------------ |------------ | ------------ |
 | 4  | ------------ |------------ | ------------ |
@@ -58,9 +58,9 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 ### Day 0: December 1st, 2017 , Wednesday
 
 **Today's Progress/What I learned**:
--
+- Started 30 Sites in 30 Days
 
 **Link to work:**
-
+- [Event Invitation](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day2)
 
 ------------
