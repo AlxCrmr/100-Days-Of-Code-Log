@@ -11,7 +11,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 
 |  Start Date | End Date |
 | ------------ | ------------ |
-| December 1st, 2017 | ------------ |
+| December XXX, 2017 | ------------ |
 
 
 ## My Coding Goals
@@ -26,8 +26,8 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 
 | No  |  Project Title  |  Completed On | CodePen |
 | :------------: | ------------ | :------------: | ------------ |
-| 1  | [Event Invitation](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day02) |December 1st, 2017| [CodePen](https://codepen.io/AlxCrmr/full/pdGvoa/)|
-| 2  | [Tourist Attraction](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day03) |December XXX, 2017 | [CodePen](https://codepen.io/AlxCrmr/full/VrgWxR/) |
+| 1  | ------------ |------------ | ------------ |
+| 2  |------------ |------------ | ------------ |
 | 3  | ------------ |------------ | ------------ |
 | 4  | ------------ |------------ | ------------ |
 | 5  |  ------------ |------------ | ------------ |
@@ -58,29 +58,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 ### Day 0: December 1st, 2017, Friday
 
 **Today's Progress/What I learned**:
-- Started 30 Sites in 30 Days
+-
 
 **Link to work:**
-- [Event Invitation](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day02)
-
-------------
-
-### Day 1: December 2nd, 2017, Saturday
-
-**Today's Progress/What I learned**:
-- Continued 30 Sites in 30 Days
-
-**Link to work:**
-- [Tourist Attraction](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day03)
-
-------------
-
-### Day 2: December 3rd, 2017, Sunday
-
-**Today's Progress/What I learned**:
-- Continued 30 Sites in 30 Days
-
-**Link to work:**
-- [Tourist Attraction](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day03)
-
-------------
+-
