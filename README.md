@@ -74,3 +74,13 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 - [Tourist Attraction](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day03)
 
 ------------
+
+### Day 2: December 3rd, 2017, Sunday
+
+**Today's Progress/What I learned**:
+- Continued 30 Sites in 30 Days
+
+**Link to work:**
+- [Tourist Attraction](https://github.com/AlxCrmr/30sites-30Days/tree/master/Day03)
+
+------------
