@@ -55,7 +55,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 
 ## Progress Log
 
-### Day 0: December 1st, 2017, Friday
+### Day 0: December XXX, 2017, Friday
 
 **Today's Progress/What I learned**:
 -
