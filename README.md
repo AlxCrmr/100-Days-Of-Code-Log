@@ -10,7 +10,7 @@ Creator of #100DaysOfCode [Alexander Kallaway github](https://github.com/Kallawa
 I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 
 |  Start Date | End Date |
-| ------------ | ------------ |
+| :------------: | :------------:|
 | December XXX, 2017 | ------------ |
 
 
@@ -25,7 +25,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 ## My Completed Projects List
 
 | No  |  Project Title  |  Completed On | CodePen |
-| :------------: | ------------ | :------------: | ------------ |
+| :------------: | :------------: | :------------: | :------------: |
 | 1  | ------------ |------------ | ------------ |
 | 2  |------------ |------------ | ------------ |
 | 3  | ------------ |------------ | ------------ |
@@ -37,7 +37,7 @@ I will also be posting to [Codepen](https://codepen.io/AlxCrmr/).
 ## Completed Courses
 
 | No  |  Course Title  |  Completed On |
-| :------------: | ------------ | :------------: |
+| :------------: |:------------: | :------------: |
 | 1  |  ------------ |------------ |
 | 2 |  ------------ |------------ |
 | 3 |  ------------ |------------ |
