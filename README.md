@@ -28,7 +28,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | No  |  Project Title  |  Completed On | CodePen |
 | :------------: | :------------: | :------------: | :------------: |
 | 1  | [CSS3 in 30 Days : Day 01](https://github.com/AlxCrmr/CSS30/tree/master/Day01)  |December 28th, 2017 | [CodePen](https://codepen.io/AlxCrmr/full/YYZgyB/) |
-| 2  |------------ |------------ | ------------ |
+| 2 | [Day 02 - Sexy Typography](https://github.com/AlxCrmr/CSS30/tree/master/Day02) |December 29th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/OzmbQr/)|
 | 3  | ------------ |------------ | ------------ |
 | 4  | ------------ |------------ | ------------ |
 | 5  |  ------------ |------------ | ------------ |
@@ -64,3 +64,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [CSS3 in 30 Days : Day 01](https://github.com/AlxCrmr/CSS30/tree/master/Day01)
+
+
+### Day 1: December 29th, 2017, Friday
+
+**Today's Progress/What I learned**:
+- Working through the book [A Smarter Way to Learn JavaScript](https://www.amazon.ca/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
+- Working through [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443)
+
+**Link to work:**
+- [CSS3 in 30 Days : Day 02](https://github.com/AlxCrmr/CSS30/tree/master/Day02)
