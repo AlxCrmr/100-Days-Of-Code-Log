@@ -40,7 +40,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | No  |  Course Title  |  Completed On |
 | :------------: |:------------: | :------------: |
 | 1  | [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443) |------------ |
-| 2 |  ------------ |------------ |
+| 2 |  [Learn PHP, MySQL, Object-Oriented Programming - 5 Projects](https://www.udemy.com/beginners-guide-to-php/learn/v4/overview) |------------ |
 | 3 |  ------------ |------------ |
 | 4 |  ------------ |------------ |
 | 5  |  ------------ |------------ |
