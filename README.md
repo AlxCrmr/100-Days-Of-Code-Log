@@ -32,7 +32,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 3  | [Day 03 - Clipping Images with Shapes ](https://github.com/AlxCrmr/CSS30/tree/master/Day03) |December 30th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/BJRxmd/)|
 | 4  | [Day 04 - Sexy User Interface Forms ](https://github.com/AlxCrmr/CSS30/tree/master/Day04) |December 31st, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/MrmMmJ/)|
 | 5 |  [Day 05 - Useful Broken Images ](https://github.com/AlxCrmr/CSS30/tree/master/Day05) | January 1st, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/JMJXrR/)|
-| 6  |  ------------ |------------ | ------------ |
+| 6  |  [Day 06 - Print Specific Styles ](https://github.com/AlxCrmr/CSS30/tree/master/Day06) | January 2nd, 2018 |N/A|
 | 7 |  ------------ |------------ | ------------ |
 | 8 |  ------------ |------------ | ------------ |
 | 9 |  ------------ |------------ | ------------ |
@@ -88,6 +88,8 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 **Link to work:**
 - [CSS3 in 30 Days : Day 03](https://github.com/AlxCrmr/CSS30/tree/master/Day03)
 
+
+
 ### Day 3: December 31st, 2017, Sunday
 
 **Today's Progress/What I learned**:
@@ -97,6 +99,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 **Link to work:**
 - [CSS3 in 30 Days : Day 04](https://github.com/AlxCrmr/CSS30/tree/master/Day04)
 
+
 ### Day 4: January 1st, 2018, Monday
 
 **Today's Progress/What I learned**:
@@ -105,3 +108,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [CSS3 in 30 Days : Day 05](https://github.com/AlxCrmr/CSS30/tree/master/Day05)
+
+
+### Day 5: January 2nd, 2018, Tuesday
+
+**Today's Progress/What I learned**:
+- Continued watching videos from [Team TreeHouse's Front End Web Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+- Working through [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443)
+
+**Link to work:**
+- [CSS3 in 30 Days : Day 06](https://github.com/AlxCrmr/CSS30/tree/master/Day06)
