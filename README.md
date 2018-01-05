@@ -34,7 +34,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 5 |  [Day 05 - Useful Broken Images ](https://github.com/AlxCrmr/CSS30/tree/master/Day05) | January 1st, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/JMJXrR/)|
 | 6  |  [Day 06 - Print Specific Styles ](https://github.com/AlxCrmr/CSS30/tree/master/Day06) | January 2nd, 2018 |N/A|
 | 7 |  [Day 07 - Image Manipulation](https://github.com/AlxCrmr/CSS30/tree/master/Day07) | January 3rd, 2018  | [CodePen](https://codepen.io/AlxCrmr/full/ypXQYN/) |
-| 8 |  ------------ |------------ | ------------ |
+| 8 |  [Day 08 - 8bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |January 4th, 2018  | [CodePen](https://codepen.io/AlxCrmr/full/WdZdXx/) |
 | 9 |  ------------ |------------ | ------------ |
 
 
@@ -128,3 +128,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [CSS3 in 30 Days : Day 07](https://github.com/AlxCrmr/CSS30/tree/master/Day07)
+
+
+### Day 7: January 4th, 2018, Thursday
+
+**Today's Progress/What I learned**:
+- Continued watching videos from [Team TreeHouse's Front End Web Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+- Working through [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443)
+
+**Link to work:**
+- [CSS3 in 30 Days : Day 08](https://github.com/AlxCrmr/CSS30/tree/master/Day08)
