@@ -37,7 +37,11 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 8 |  [Day 08 - 8bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |January 4th, 2018  | [CodePen](https://codepen.io/AlxCrmr/full/WdZdXx/) |
 | 9 |   [Day 09 - Modern Layouts](https://github.com/AlxCrmr/CSS30/tree/master/Day09) |January 5th, 2018 | N/A|
 | 10 | [Random Quote Generator](https://github.com/AlxCrmr/TeamTreeHouse/tree/master/Random%20Quote%20Generator) |January 5th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/rpYMww/) |
-| 11 |  ------------ |------------ | ------------ |
+| 11 |  [Day 10 - Pricing Table](https://github.com/AlxCrmr/CSS30/tree/master/Day10) |January 6th, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/jYaKdx/)|
+| 12 |  ------------ |------------ | ------------ |
+| 13 |  ------------ |------------ | ------------ |
+| 14 |  ------------ |------------ | ------------ |
+| 15 |  ------------ |------------ | ------------ |
 
 
 ## Completed Courses
@@ -149,4 +153,15 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 - Working through [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443)
 
 **Link to work:**
-- [CSS3 in 30 Days : Day 09](https://github.com/AlxCrmr/CSS30/tree/master/Day08)
+- [CSS3 in 30 Days : Day 09](https://github.com/AlxCrmr/CSS30/tree/master/Day09)
+- [Random Quote Generator](https://github.com/AlxCrmr/TeamTreeHouse/tree/master/Random%20Quote%20Generator)
+
+
+### Day 9: January 6th, 2018, Saturday
+
+**Today's Progress/What I learned**:
+- Continued a free Trail of the [Team TreeHouse's  FullStack Tech Degree Track](https://teamtreehouse.com/)
+- Working through [CSS3 in 30 Days](https://codecollege.ca/courses/137487/lectures/2437443)
+
+**Link to work:**
+- [CSS3 in 30 Days : Day 10](https://github.com/AlxCrmr/CSS30/tree/master/Day10)
