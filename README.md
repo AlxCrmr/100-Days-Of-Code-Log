@@ -40,8 +40,8 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 11 |  [Day 10 - Pricing Table](https://github.com/AlxCrmr/CSS30/tree/master/Day10) |January 6th, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/jYaKdx/)|
 | 12 |   [Day 11 - Internet Explorer Hacks](https://github.com/AlxCrmr/CSS30/tree/master/Day11) |January 7th, 2018 |N/A|
 | 13 |  [Day 12 - CSS Variables](https://github.com/AlxCrmr/CSS30/tree/master/Day11) |January 8th, 2018 |N/A|
-| 14 |  [freeCodeCamp TributePage V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/tribute-page) |January 9th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/wpyVaj/) |
-| 15 |  [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator) |------------ | [CodePen](https://codepen.io/AlxCrmr/full/VyXGRr/) |
+| 14 |  [freeCodeCamp TributePage V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/tribute-page) | January 9th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/wpyVaj/) |
+| 15 |  [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator) | January 11th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/VyXGRr/) |
 | 16 |  ------------ |------------ | ------------ |
 | 17 |  ------------ |------------ | ------------ |
 | 18 |  ------------ |------------ | ------------ |
@@ -205,6 +205,15 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 
 ### Day 13: January 10th, 2018, Wednesday
+
+**Today's Progress/What I learned**:
+- Continued remaking freeCodeCamp Projects
+
+**Link to work:**
+- [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator)
+
+
+### Day 14: January 11th, 2018, Thursday
 
 **Today's Progress/What I learned**:
 - Continued remaking freeCodeCamp Projects
