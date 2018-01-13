@@ -220,3 +220,11 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator)
+
+
+### Day 15: January 12th, 2018, Friday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+
+**Link to work:**
