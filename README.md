@@ -42,7 +42,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 13 |  [Day 12 - CSS Variables](https://github.com/AlxCrmr/CSS30/tree/master/Day11) |January 8th, 2018 |N/A|
 | 14 |  [freeCodeCamp TributePage V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/tribute-page) | January 9th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/wpyVaj/) |
 | 15 |  [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator) | January 11th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/VyXGRr/) |
-| 16 |  ------------ |------------ | ------------ |
+| 16 |  [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock) |------------ | ------------ |
 | 17 |  ------------ |------------ | ------------ |
 | 18 |  ------------ |------------ | ------------ |
 | 19 |  ------------ |------------ | ------------ |
@@ -228,3 +228,14 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 - Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
 
 **Link to work:**
+
+
+
+### Day 16: January 13th, 2018, Saturday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+- Continued remaking freeCodeCamp Projects
+
+**Link to work:**
+- [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock)
