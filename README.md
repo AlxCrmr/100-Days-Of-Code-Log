@@ -239,3 +239,14 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock)
+
+
+
+### Day 17: January 14th, 2018, Sunday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+- Continued remaking freeCodeCamp Projects
+
+**Link to work:**
+- [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock)
