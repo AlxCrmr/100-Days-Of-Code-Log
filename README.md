@@ -281,3 +281,15 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 - [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock)
+
+
+
+### Day 21: January 18th, 2018, Thursday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+- Continued remaking freeCodeCamp Projects
+    - Started TicTacToe V2
+
+**Link to work:**
+- [freeCodeCamp TicTacToe V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/TicTacToe)
