@@ -43,7 +43,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 | 14 |  [freeCodeCamp TributePage V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/tribute-page) | January 9th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/wpyVaj/) |
 | 15 |  [freeCodeCamp JavaScript Calculator V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/javascript-calculator) | January 11th, 2018 | [CodePen](https://codepen.io/AlxCrmr/full/VyXGRr/) |
 | 16 |  [freeCodeCamp Pomodoro Clock V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/pomodoro-clock) |January 17th, 2018 |  [CodePen](https://codepen.io/AlxCrmr/full/XVBrRb/) |
-| 17 |  ------------ |------------ | ------------ |
+| 17 |  [freeCodeCamp TicTacToe V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/ticTacToe) |------------ | [CodePen](https://codepen.io/AlxCrmr/full/qpGdpP/) |
 | 18 |  ------------ |------------ | ------------ |
 | 19 |  ------------ |------------ | ------------ |
 | 20 |  ------------ |------------ | ------------ |
