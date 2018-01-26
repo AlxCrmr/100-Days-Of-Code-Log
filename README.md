@@ -353,6 +353,15 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Today's Progress/What I learned**:
 - Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+
+**Link to work:**
+
+
+
+### Day 28: January 25th, 2018, Thursday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
 - Continued remaking freeCodeCamp Projects
     - Continue TicTacToe V2
 
