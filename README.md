@@ -376,7 +376,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 
 **Link to work:**
-- [freeCodeCamp TicTacToe V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/TicTacToe)
+
 
 ### Day 30: January 27th, 2018, Saturday
 
@@ -385,4 +385,11 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 
 **Link to work:**
-- [freeCodeCamp TicTacToe V2](https://github.com/AlxCrmr/freeCodeCamp/tree/master/TicTacToe)
+
+## Day 31: January 28th, 2018, Sunday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+
+
+**Link to work:**
