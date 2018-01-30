@@ -386,7 +386,18 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 **Link to work:**
 
+
+
 ## Day 31: January 28th, 2018, Sunday
+
+**Today's Progress/What I learned**:
+- Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
+
+
+**Link to work:**
+
+
+## Day 32: January 29th, 2018, Monday
 
 **Today's Progress/What I learned**:
 - Continued working through [Team TreeHouse's  Site](https://teamtreehouse.com/)
