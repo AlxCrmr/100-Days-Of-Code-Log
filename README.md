@@ -1,5 +1,5 @@
 # 100-days-of-code-log
-##This is all my GitHub logs for 100DaysOfCode
+## This is all my GitHub logs for 100DaysOfCode
 
 **Main Goal:** ***Code (or read about code) every day for the next 100 days for at least an hour a day.***
 
