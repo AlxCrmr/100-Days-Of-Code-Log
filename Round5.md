@@ -11,7 +11,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 |  Start Date | End Date |
 | :------------: | :------------:|
-| February  5th, 2018 | ------------ |
+| February  7th, 2018 | ------------ |
 
 
 ## My Coding Goals
@@ -20,8 +20,6 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 - Gain a deeper understanding of HTML, CSS, JS, jQuery, Responsive design, PHP, WordPress, and MySQL
 - Make some real world projects for my Portfolio
 - Launch my Portfolio
-
-
 
 
 ## My Completed Projects List
