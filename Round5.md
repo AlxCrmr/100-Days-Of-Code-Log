@@ -11,7 +11,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 |  Start Date | End Date |
 | :------------: | :------------:|
-| February  8th, 2018 | ------------ |
+| February  9th, 2018 | ------------ |
 
 
 ## My Coding Goals
