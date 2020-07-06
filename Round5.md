@@ -11,13 +11,16 @@ I will also be posting some projects to [Codepen](https://codepen.io/AlxCrmr/) a
 
 |  Start Date | End Date |
 | :------------: | :------------:|
-| February  9th, 2018 | ------------ |
+| July 7th, 2020 | ------------ |
 
 
 ## My Coding Goals
 - Continue to code daily
 - Find my Niche
-- Gain a deeper understanding of HTML, CSS, JS, jQuery, Responsive design, PHP, WordPress, and MySQL
+- Gain a deeper understanding of HTML, CSS, JS, jQuery, Responsive design, PHP, and Flexbox
+- Learn React, Redux, WordPress, and MySQL
+- Look for a coding buddy
+- Work through freeCodeCamp
 - Make some real world projects for my Portfolio
 - Launch my Portfolio
 
